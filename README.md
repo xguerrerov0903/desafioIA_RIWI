@@ -1,11 +1,11 @@
 # Desafío IA: Transformando un Proceso Tradicional
 
 ## 1. Introducción
-En este documento, se expone cómo un proceso tradicional puede mejorarse mediante la incorporación de la inteligencia artificial. Se eligió como caso de uso [el cuidado capilar personalizado], muy común en [la industria de la belleza y el cuidado personal].
+En este documento, se expone cómo un proceso tradicional puede mejorarse mediante la incorporación de la inteligencia artificial. Se eligió como caso de uso el cuidado capilar personalizado, muy común en la industria de la belleza y el cuidado personal.
 
 ## 2. Descripción del Proceso Tradicional
 **Situación actual:**  
-- [Descripción breve del proceso actual, por ejemplo: "La atención al cliente en nuestra empresa se realiza mediante respuestas manuales en un call center."]
+- El cuidado del cabello y la elección de productos capilares suelen realizarse de manera subjetiva, basada en la percepción personal o en recomendaciones generales. Las personas deben identificar por sí mismas su tipo de cabello, color, textura y necesidades específicas, lo cual puede llevar a una selección inadecuada de productos. Normalmente, este proceso se apoya en el consejo de estilistas, vendedores o contenido en línea no personalizado.
 
 **Problemas o limitaciones del método tradicional:**  
 - Lenta respuesta a los clientes.  
