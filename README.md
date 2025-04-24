@@ -8,14 +8,15 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 - El cuidado del cabello y la elección de productos capilares suelen realizarse de manera subjetiva, basada en la percepción personal o en recomendaciones generales. Las personas deben identificar por sí mismas su tipo de cabello, color, textura y necesidades específicas, lo cual puede llevar a una selección inadecuada de productos. Normalmente, este proceso se apoya en el consejo de estilistas, vendedores o contenido en línea no personalizado.
 
 **Problemas o limitaciones del método tradicional:**  
-- Lenta respuesta a los clientes.  
-- Alto costo operativo.  
-- Dificultad para manejar picos de demanda.  
-- Respuestas inconsistentes o estandarizadas.
+- Diagnostico subjetivo y/o genericos
+- Obligacion de asistencia fisica para atencion personalizada
+- Perdida de tiempo en investigacion
+- Información excesiva y contradictoria en internet 
+- Inconsistencia de atencion entre profesionales
 
 ## 3. Propuesta de Solución con IA
 **Objetivo de la solución:**  
-- Automatizar y personalizar el proceso mediante un sistema basado en IA.
+- Automatizar y personalizar el proceso mediante un sistema basado en IA con e.
 
 **Descripción de la solución IA:**  
 - **Tecnología empleada:** Modelo de procesamiento de lenguaje natural (NLP).  
