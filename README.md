@@ -36,10 +36,8 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 
 | Aspecto                    | Proceso Tradicional               | Solución con IA                         |
 |----------------------------|-----------------------------------|-----------------------------------------|
-| Precisión del diagnóstico  | Subjetiva y variable              | Alta, personalizada basada en análisis  |
-    de datos y adaptabilidad           |
-| Accesibilidad              | Limitada a atención presencial    |     Disponible 24/7 desde cualquier     |
-   dispositivo               |
+| Precisión del diagnóstico  | Subjetiva y variable              | Alta, personalizada basada en análisis de datos y adaptabilidad           |
+| Accesibilidad              | Limitada a atención presencial    |     Disponible 24/7 desde cualquier dispositivo               |
 | Adaptabilidad              | Estática, depende del profesional |  Evolutiva, mejora con cada nuevo caso  |
 
 ## 5. Reflexión Personal
