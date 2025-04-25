@@ -16,40 +16,34 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 
 ## 3. Propuesta de Solución con IA
 **Objetivo de la solución:**  
-- Automatizar y personalizar el proceso mediante un sistema basado en IA con e.
+- Personalizar y facilitar la experiencia mediante un sistema entrenado con machine learning que no solo conserve su entrenamiento inicial, sino que también aprenda de las consultas que recibe para adaptarse a nuevos casos y preferencias.
 
 **Descripción de la solución IA:**  
-- **Tecnología empleada:** Modelo de procesamiento de lenguaje natural (NLP).  
+- **Tecnología empleada:** Modelo de visión por computadora para análisis de imágenes del cabello empleando (NLP) para entender descripciones de los usuarios.
 - **Integración en el flujo:**
-  - El sistema recibe la entrada del usuario.
-  - La IA interpreta la intención y genera una respuesta o acción automática.
-  - Intervención humana solo en casos complejos.
-
+  - El sistema recibe la entrada del usuario (Imagen y/o descripcion de solicitud)
+  - La IA analiza características como textura, brillo, frizz, color, y densidad
+  - En función de los datos aprendidas previamente en su entrenamiento y la adaptacion que ha realizado recomienda productos y rutinas.
+  - Aprende de la retroalimentación del usuario para progresar en su adaptacion.
+    
 **Beneficios esperados:**  
-- Mayor velocidad de respuesta.  
-- Mejora en la personalización.  
+- Ahorro de tiempo en la elección de productos.
+- Diagnóstico más preciso y personalizado.
 - Capacidad de aprendizaje continuo.  
 - Reducción de costos operativos.
 
 ## 4. Comparativa entre Procesos
 
-| Aspecto                    | Proceso Tradicional              | Solución con IA                         |
-|----------------------------|----------------------------------|-----------------------------------------|
-| Velocidad de respuesta     | Lento                            | Alta, automática                        |
-| Costo operativo            | Alto                             | Bajo, eficiente                         |
-| Consistencia de respuestas | Variable                         | Homogénea y mejorada                   |
-| Adaptabilidad              | Limitada                         | Dinámica, con aprendizaje continuo     |
+| Aspecto                    | Proceso Tradicional               | Solución con IA                         |
+|----------------------------|-----------------------------------|-----------------------------------------|
+| Precisión del diagnóstico  | Subjetiva y variable              | Alta, personalizada basada en análisis  |
+|                            |                                   |      de datos y adaptabilidad           |
+| Accesibilidad              | Limitada a atención presencial    |     Disponible 24/7 desde cualquier     |
+|                            |                                   |               dispositivo               |
+| Adaptabilidad              | Estática, depende del profesional |  Evolutiva, mejora con cada nuevo caso  |
 
 ## 5. Reflexión Personal
 
-Este ejercicio demuestra que la IA no solo mejora la eficiencia, sino que también permite una mayor adaptabilidad y personalización en los procesos. Sin embargo, es crucial asegurar la calidad de los datos, establecer mecanismos de supervisión humana y considerar las implicaciones éticas de cada implementación.
+Este ejercicio demuestra cómo la inteligencia artificial puede transformar experiencias cotidianas, incluso en áreas como la belleza y el cuidado personal. Gracias a tecnologías como el aprendizaje automático y la visión por computadora, es posible ofrecer diagnósticos personalizados y efectivos, sin necesidad de asistencia física simplemente con una imagen y/o una solicitud. Sin embargo, es importante garantizar la protección de datos sensibles (como imágenes) y evitar sesgos en los algoritmos para que la experiencia sea inclusiva y confiable.
 
 ---
-
-## Tiempo Sugerido
-
-Dedica entre 30 y 45 minutos para desarrollar esta documentación.
-
-## Entregable
-
-Repositorio en GitHub con un archivo `README.md` que incluya toda la información anterior.
